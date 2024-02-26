@@ -13,10 +13,10 @@ app.use(express.json());
 
 mongoose.set('strictQuery', false);
 mongoose.connect(url)
-  .then(() => console.log('Successfully connected to MongoDB'))
+  .then(() => console.log('chipi chipi chappa chappa . . . Successfully connected to MongoDB'))
   .catch(err => console.error('Connection error:', err));
 mongoose.connection.once('open', () => {
-  console.log('MongoDB connection is open');
+  console.log('maja da mama .. MongoDB connection is open');
 });
 
 // Defining schema for the form data to store into mongodb
