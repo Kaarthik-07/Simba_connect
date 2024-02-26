@@ -80,3 +80,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 This README provides a basic structure for documenting your project. You can expand it by adding sections on how to contribute, license information, and a more detailed description of the project and its features.
+
+
+
+
+## Follow pannu bruhh
+
+https://github.com/Kaarthik-07/Simba_connect/assets/132292791/ddb3f334-22a2-4e6c-adc7-4eb0c1edfcd4
+
+
+                                                                            
